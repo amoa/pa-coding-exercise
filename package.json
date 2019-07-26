@@ -1,0 +1,25 @@
+{
+  "name": "pa-coding-exercise",
+  "version": "0.1.0",
+  "description": "Technical interview coding exercise for Pelmorex Audience",
+  "main": "interview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon interview.js"
+  },
+  "keywords": [
+    "interview",
+    "coding",
+    "exercise",
+    "challenge"
+  ],
+  "author": "Nafeu Nasir",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "nodemon": "^1.19.1"
+  }
+}
